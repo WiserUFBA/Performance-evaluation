@@ -39,3 +39,11 @@ https://github.com/cleberlira/TMARMAExperiments/blob/master/IMG_8434.MOV
 https://github.com/cleberlira/TMARMAExperiments
 
 ```
+
+## Support and development
+
+<p align="center">
+	Developed by Cleber Jorge Lira at </br>
+  <img src="https://wiki.dcc.ufba.br/pub/SmartUFBA/ProjectLogo/wiserufbalogo.jpg"/>
+</p>
+
