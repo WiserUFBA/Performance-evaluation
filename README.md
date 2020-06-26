@@ -6,8 +6,8 @@ Developing Internet of Things (IoT) applications and fulfill their Quality of Se
 
 # Implementation of the architecture
 ```
-https://github.com/WiserUFBA/reactive-iot-applications
-
+https://github.com/cleberlira/iot-message-channel
+https://github.com/WiserUFBA/reactive-iot-mqtt-broker
 ```
 
 # Docker Files
