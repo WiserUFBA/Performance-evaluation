@@ -8,6 +8,7 @@ Developing Internet of Things (IoT) applications and fulfill their Quality of Se
 ```
 https://github.com/cleberlira/iot-message-channel
 https://github.com/WiserUFBA/reactive-iot-mqtt-broker
+https://github.com/cleberlira/service-discovery
 ```
 
 # Docker Files
