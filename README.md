@@ -35,13 +35,10 @@ https://github.com/WiserUFBA/reactive-iot-applications
 
 # Scenario
 ```
-https://github.com/cleberlira/TMARMAExperiments/blob/master/IMG_8434.MOV
-
+https://github.com/cleberlira/TMARMAExperiments
 ```
 # Experimental Results
 ```
-https://github.com/cleberlira/TMARMAExperiments
-
 https://docs.google.com/spreadsheets/d/1hIljxcEiiYLKqb7WKWY-MT5ypZ6oLCUMUN9p_CjiIs4/edit?usp=sharing
 
 
