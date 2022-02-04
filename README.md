@@ -1,8 +1,9 @@
-# SOCA Repository
+# Repository
 This repository contains all artifacts produced for work entitled: A Reactive Microservices based Architecture for Development of Reliable IoT Applications
 
 # Abstract
-Developing Internet of Things (IoT) applications and fulfill their Quality of Service (QoS) requirements, such as interoperability, scalability, adaptability, and reliability pose multiple challenges. These challenges are imposed mainly by the ultra large scale of the IoT, the heterogeneous nature of applications and devices, and the highly dynamic execution environment. The adoption of the Microservices pattern combined with Reactive Systems principles  may contribute to tackle some of these challenges. Therefore, the goal of this work is to propose an architecture based on reactive Microservices for the development of IoT applications. The proposed architecture consists of a set of software components, tailored to meet the requirements of IoT applications. In addition, the proposal includes a software platform that materializes several of the architecture components and helps, at runtime, to meet the availability QoS requirement. We applied our proposal in a real-world scenario in the Smart Agriculture domain. The experimental results shown that our approach improves availability of the IoT Application significantly, in comparison to our benchmark.
+The Internet of Things has changed the scope of the Internet and it has become a network connecting a myriad of devices of different types. The integration of these heterogeneous devices fosters novel services and applications, generates value-added information and actionable knowledge for the end-user. Nowadays, microservices have been increasingly adopted in the development of IoT applications and services due to the fact that such an architectural style promotes some important properties in IoT, like scalability and extensibility.  Recent researches have analyzed the performance interference of microservices based on edge computing applications. However,  they did not assess the performance impact of characteristics inherent in the use of reactive microservices. In this work, we present an architecture based on reactive microservices for the development of IoT reliable applications on edge computing.  We carried out experiments to assess the performance of  IoT applications that make use of the presented architecture and runs on benchmark scenarios. In addition, we performed load and scalability testing of the IoT application that adopts the architecture components in a hybrid scenario (real devices and emulated devices). The results of the performance evaluation show that the IoT application remained functional during the analysis performed.
+.
 
 # Implementation of the architecture
 ```
@@ -40,6 +41,9 @@ https://github.com/cleberlira/TMARMAExperiments
 # Experimental Results
 ```
 https://docs.google.com/spreadsheets/d/1hIljxcEiiYLKqb7WKWY-MT5ypZ6oLCUMUN9p_CjiIs4/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1751c1qCE5bci2g0V5fnp5aN1XFZCEj36-ROOODDPGXk/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/14eO6Z5cKyfNgLJI8R84ZRzRraH6zy-vmIHrgEX20unI/edit?usp=sharing
+https://docs.google.com/document/d/1q3FM0ZP_H7S7YbeUX9S71mpv4k4FxjOkHL_CvCp3zfg/edit?usp=sharing
 
 
 ```
